@@ -7,7 +7,7 @@
 <html>
     <head>
         <meta charset="utf-8">
-        <title>Buku Tamu</title>
+        <title>Comment System</title>
         <link rel="stylesheet" href="css/site.css" media="screen" title="no title">
 
     </head>
